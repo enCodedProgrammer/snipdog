@@ -1,0 +1,13 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+images/ABPK-Veins-2-GRAD_3-1-p-1080.png
+images/ABPK-Veins-2-GRAD_3-1-p-500.png
+images/ABPK-Veins-2-GRAD_3-1-p-800.png
+images/Rectangle-39316-p-500.png
+images/Rectangle-39316-p-800.png
+images/photo_2024-05-09_13-01-42-p-1080.jpg
+images/photo_2024-05-09_13-01-42-p-500.jpg
+images/photo_2024-05-09_13-26-49-removebg-preview-p-500.png
+images/photo_2024-05-09_13-37-10-p-1080.jpg
+images/photo_2024-05-09_13-37-10-p-500.jpg
+images/photo_2024-05-09_13-37-10-p-800.jpg
